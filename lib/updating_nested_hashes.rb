@@ -49,7 +49,7 @@ def add_characters
          ]
       },
       :additional_characters => [{:name=>"Prince Escalus"}, {"Apothecary"}]
-        
+
     ]
    }
 
